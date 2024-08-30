@@ -1,0 +1,10 @@
+body {
+  background-color: #243b55;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 500px;
+  flex-direction: column;
+  margin-left: 350px;
+}
+
